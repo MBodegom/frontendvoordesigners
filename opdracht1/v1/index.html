@@ -1,16 +1,93 @@
-<html>
-  <head></head>
-  <body>
-    <p>
-      Hier komt de HTML van de interactieve demo te staan voor de eerste opdracht:
-      Ontwerp een user interface voor een gegeven use case.
-      Werk je ontwerp uit in HTML, CSS en Javascript om te kunnen testen in een browser.
-    </p>
-    <ol>
-      <li>Als ik een lijst films heb gevonden, wil ik leuke films kunnen opslaan om ze thuis te ...</li>
-      <li>In een lijst gevonden studentenhuizen wil ik details kunnen bekijken om te bepalen of de kamer geschikt is.</li>
-      <li>In een verzameling muzieknummers wil ik de volgorde kunnen veranderen om een vette playlist te maken.</li>
-      <li>Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen.</li>
-    </ol>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css" type="text/css">
+
+    <title> Olivers Playlist </title>
+</head>
+
+<body>
+    <header>
+        <img src="afb/sappige_nummers.jpg">
+        <section>
+            <h1>Sappige Nummers</h1>
+            <p>Ja klopt... dit is spotify, geniet er van. In deze afspeellijst kan je zelf je muziek sorteren en kan je kiezen wat jij bovenaan wilt hebben. Enjoy it, het is erg sappig.</p>
+        </section>
+
+    </header>
+    <main>
+<!--       <button onClick="sortList()">Sorteer op naam &#8964;</button>-->
+        <ul id="columns">
+            <li class="column" draggable="true">
+                <p>Don't Stop</p>
+                <p>La Fuente</p>
+                <p>3:01</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>ADHD</p>
+                <p>Hasse de Moor, Curbi</p>
+                <p>2:65</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>Moar Ghosts 'n' Stuff</p>
+                <p>Deadmau5</p>
+                <p>5:31</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>Sometimes</p>
+                <p>Moguai, Raumakustik</p>
+                <p>4:15</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>Right Here</p>
+                <p>Billy Kenny</p>
+                <p>2:39</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>Indische Waterlelies</p>
+                <p>Efteling</p>
+                <p>4:27</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>Born To Be Alive</p>
+                <p>De Village People</p>
+                <p>4:22</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>Nee Dat Is Niet De Village People</p>
+                <p>Het is Patrick Hernandez</p>
+                <p>2:55</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>Ik Heb Een Tattoo Van Jouw Naam</p>
+                <p>KUD</p>
+                <p>2:45</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>Karate</p>
+                <p>KSHMR</p>
+                <p>3:09</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>I Remember</p>
+                <p>Deadmau5</p>
+                <p>4:19</p>
+            </li>
+            <li class="column" draggable="true">
+                <p>Monsieur Cannibale</p>
+                <p>Efteling</p>
+                <p>3:24</p>
+            </li>
+        </ul>
+    </main>
+
+
+</body>
+
+<script src="js/script.js"></script>
+
 </html>
