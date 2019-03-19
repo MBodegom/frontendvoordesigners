@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+
+/*      Normal       */
+body {
+    background-color: #f7f7f7;
+    font-family: 'Roboto', sans-serif;
+}
+
+main > section:first-of-type {
+    margin-top: 5em;
+}
+
+main > section {
+    background-color: #fff;
+    box-shadow: 2px 3px 5px 0px #e2e2e2;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    max-width: 50em;
+    height: auto;
+    padding: 2em;
+    margin-top: 1em;
+}
+main > section:nth-of-type(2) > section {
+    display: inline-block;
+    margin-right: 2em;
+}
+main > section:first-of-type {
+    color: #898989;
+    margin-top: 1em ;
+    font-weight: 100;
+}
+
+
+h1,
+h2,
+h3 {
+    font-weight: 400;
+    color: #565f9e;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+
+
+/*      Nightshift       */
+
+.darkmode_background {
+    background-color: #152736;
+    
+}
+
+.darkmode_section {
+    background-color: #253a4b;
+    box-shadow: 2px 3px 5px 0px #00000444;
+}
+
+.darkmode_p {
+    color: #e3e3e3 !important;
+}
+
+.darkmode_heading {
+    color: #ed9237;
+}
+
+
+
+/*        Gridview         */
+
+.gridview {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 0em 1em 0em 1em;
+}
