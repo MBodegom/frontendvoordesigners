@@ -26,12 +26,10 @@ dubbelKolomsKnop.addEventListener('click', function() {
 })
 
 
-
-
-
 $('input').on('change', function () {
     var v = $(this).val();
     $('p').css('font-size', v + 'px')
     $('span').html(v);
 });
+
 
