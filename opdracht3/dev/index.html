@@ -3,31 +3,45 @@
     <title>FvD - Opdracht 3 - FETCH</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="shortcut icon" type="image/png" href="afb/logo.png" />
 </head>
 
 <body>
     <header>
-        <img src="../images/logo.png">
+        <div class="header_info">
+            <img src="afb/logo.png">
+        </div>
     </header>
 
     <main>
 
-        <section>
-            <h1>Kijk hier voor gave films</h1>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
+        <section id="container"> 
+            <h1>Cineworld</h1>
+            <p>Door op de knop hier onder te drukken krijg je een lading aan films te zien.</p>
             <button>laad de films</button>
+            <p>hier weer onder zijn een aantal knoppen en schuivertjes waarmee je deze pagina kan bewerken.
+            </p>
+            <h4>Pas lettergrootte aan</h4>
+            <input type="range" min="10" max="25">
+            <h4>Nightshift kleuren</h4>
+            <button>Aan</button>
+
+            <h4>Grid aanpassen</h4>
+            <button>Rijen</button>
         </section>
         <section>
 
         </section>
 
 
-        <span id=loader><img src="images/loading.gif"></span>
+        <span id=loader><img src="afb/loading.gif"></span>
 
         <!-- HIer wordt de html geinjecteerd-->
 
     </main>
 
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/tweedescript.js"></script>
 </body>
 </html>

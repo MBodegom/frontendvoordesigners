@@ -4,12 +4,14 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var cleanCss = require('gulp-clean-css');
 var browserSync = require('browser-sync').create();
-
+var plumber = require('gulp-plumber');
 
 
 gulp.task('start', function () {
     console.log('H3T I5 GELUKT!!!');
+    
     return gulp.src('dev/scss/**/*.scss')
+        .pipe(plumber())
         .pipe(sass())
         .pipe(cleanCss({
             compatibility: 'ie8'
@@ -22,7 +24,7 @@ gulp.task('start', function () {
 
 gulp.task('watch', function () {
     gulp.watch('dev/scss/**/*.scss', ['start']);
-
+     
 });
 
 
@@ -33,6 +35,7 @@ gulp.task('browserSync', function () {
         },
     })
 })
+
 
 
 gulp.task('default', ['start', 'watch', 'browserSync']);

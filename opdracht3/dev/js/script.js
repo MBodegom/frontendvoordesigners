@@ -4,7 +4,7 @@
 //var uri = "https://open.data.amsterdam.nl/Attracties.json";
 //var uri = "https://open.data.amsterdam.nl/Activiteiten.json";
 //var uri = "https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json";
-var uri = '/json/movies.json';
+var uri = '../json/movies.json';
 
 var section = document.querySelector('section:nth-of-type(2)');
 var button = document.querySelector("button");
@@ -20,6 +20,7 @@ function showData(jsonObj) {
         console.log("film " + i);
         var filmpiekijken = document.createElement('article');
         var filmcover = document.createElement('img');
+        var filmInfo = document.createElement('section');
         filmcover.src = films[i].cover;
         //myImg.textContent = films[i].cover;
         console.log(filmcover.src);
@@ -37,12 +38,20 @@ function showData(jsonObj) {
             reviewslezen.appendChild(listItem);
         }
 
-        filmpiekijken.appendChild(title);
-        filmpiekijken.appendChild(filmplot);
-        filmpiekijken.appendChild(filmcover);
-        filmpiekijken.appendChild(reviewslezen);
 
         section.appendChild(filmpiekijken);
+
+        filmInfo.appendChild(title);
+        filmInfo.appendChild(filmplot);
+        filmInfo.appendChild(reviewslezen);
+        
+        filmpiekijken.appendChild(filmcover);
+        filmpiekijken.appendChild(filmInfo);
+
+
+
+
+
     }
 }
 
@@ -116,3 +125,10 @@ function loadRestApiFetch() { //Rest Api call met Fetchs
         });
 }
 //loadRestApiFetch();
+
+
+
+
+
+
+

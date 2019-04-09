@@ -32,4 +32,3 @@ $('input').on('change', function () {
     $('span').html(v);
 });
 
-
