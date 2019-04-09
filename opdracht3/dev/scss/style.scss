@@ -41,6 +41,15 @@ header {
         max-width: 70em;
         margin: 0 auto;
         padding: 0 1em 0 1em;
+        
+        h1 {
+            display: inline-block;
+            margin-top: 0;
+            position: absolute;
+            left: 25%;
+            color: red;
+            top: 35px;
+        }
     }
 
     img {
@@ -48,6 +57,8 @@ header {
         border: none;
         box-shadow: none;
     }
+    
+    
 }
 
 
@@ -96,10 +107,15 @@ h2 {
 }
 
 section:first-of-type {
-    background-color: ;
+    background-color: #fff ;
     padding: 1em;
     max-width: 70em;
 
+    section {
+        padding: 0;
+        margin: 0;
+        display: none;
+    }
     button {
         background-color: var(--day-secondary-color);
         border-radius: 5px;
@@ -113,6 +129,8 @@ section:first-of-type {
     button:hover {
         background-color: var(--day-tertiar-color);
     }
+    
+    
 }
 
 
@@ -126,10 +144,11 @@ main > section:nth-of-type(2) {
         position: relative;
         border-radius: 5px;
         color: #000;
-        height: 10em;
+        height: auto;
         margin-bottom: 1em;
         display: flex;
         flex-direction: row;
+        background-color: #fff;
 
         h3 {
             margin: 0;
@@ -138,17 +157,41 @@ main > section:nth-of-type(2) {
         }
 
         img {
-            width: auto;
+            width: 10em;
             left: 0;
             top: 0;
-            height: 100%;
+            height: auto;
+            max-height: 15em;
             border-radius: 5px 0px 0px 5px;
+            object-fit: cover;
+            
         }
         
         
     }
 }
 
+.gridview {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 1em;
+    
+    article {
+        flex-direction: column !important;
+        height: auto !important;
+        margin: 0;
+        padding: 0;
+        margin-bottom: 2em !important;
+        
+        
+        img {
+            border-radius: 0 !important;
+            height: 15em !important;
+            object-fit: cover;
+            width: 100% !important;
+        }
+    }
+}
 
 
 .darkmode_background {

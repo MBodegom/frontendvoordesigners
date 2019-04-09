@@ -28,6 +28,8 @@ function showData(jsonObj) {
         title.textContent = films[i].title;
         var filmplot = document.createElement('p');
         filmplot.textContent = films[i].simple_plot;
+        var plot = document.createElement('p');
+        plot.textContent = films[i].plot;
 
 
         var reviewslezen = document.createElement('ul');
@@ -43,15 +45,11 @@ function showData(jsonObj) {
 
         filmInfo.appendChild(title);
         filmInfo.appendChild(filmplot);
+        filmInfo.appendChild(plot);
         filmInfo.appendChild(reviewslezen);
         
         filmpiekijken.appendChild(filmcover);
         filmpiekijken.appendChild(filmInfo);
-
-
-
-
-
     }
 }
 
@@ -125,6 +123,16 @@ function loadRestApiFetch() { //Rest Api call met Fetchs
         });
 }
 //loadRestApiFetch();
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,10 +1,10 @@
 [
     {
-        "cover": "https://m.media-amazon.com/images/M/MV5BNTQ3OTkwNTgyN15BMl5BanBnXkFtZTcwNTAzOTAzOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "cover": "http://i1268.photobucket.com/albums/jj577/Mariette_Van_Tuyl/IMG_2480_zps4580936b.jpg",
         "id": 1,
-        "title": "ShawsHENK redemption",
-        "plot": "Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods. The evil presence possesses them until only one is left to fight for survival.",
-        "simple_plot": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
+        "title": "Monchou taart! LEKKER HOOR",
+        "plot": "Nu voor maar €2,-",
+        "simple_plot": " Een overheerlijk stuk monchou taart! Een lekkere versnapering op deze mooie dag.",
         "release_date": "5 April 2013",
         "trailer": "https://video-http.media-imdb.com/MV5BNjA4MzMxMTg0N15BMTFeQW1wNF5BbWU3MDk3MDgzMzk@.mp4?Expires=1545338853&Signature=qkK3icYSCrfJiydSBpk5Mfmm1XU4E1bPOXgf4Bz2WibMfFLqpiy5NY8K~cXZNwCSlSPMfvs3adz1Fz~jm6tF7J0LHkIOFN8PoRiibdqd~u62X8Q0W~1WhKf2c0-6su2aUCSBAxewe-YZwdr8DlovNIBxBjk1vnscGeuFx8v-fgo_&Key-Pair-Id=APKAILW5I44IHKUN2DYA",
         "genres": ["Horror"],
@@ -83,11 +83,11 @@
     },
     {
         "id": 2,
-        "title": "The Shawshank Redemption",
-        "plot": "Andy Dufresne is a young and successful banker whose life changes drastically when he is convicted and sentenced to life imprisonment for the murder of his wife and her lover. Set in the 1940's, the film shows how Andy, with the help of his friend Red, the prison entrepreneur, turns out to be a most unconventional prisoner. Written by Martin Lewison",
-        "simple_plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "title": "Papflappies",
+        "plot": "Nu voor maar €3,- per stuk",
+        "simple_plot": "Heerlijke papflappies die jou steunen bij je suiker te kort! wees er snel bij want op = op!",
         "release_date": "14 October 1994",
-        "cover": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "cover": "https://i.redd.it/oh1rgntcga001.jpg",
         "trailer": "https://video-http.media-imdb.com/MV5BODlhNjU1YjQtOTQyOS00MmY2LWFlZTgtODg1ZjY1N2NjNDMyXkExMV5BbXA0XkFpbWRiLWV0cy10cmFuc2NvZGU@.mp4?Expires=1545339652&Signature=Wt5L9C0~HZ~AQLF5H~D7BAxCOPBQaNxIqxIICEF5apExwauB07M5vax10pne~ZneUA6y6WAWb3Q5djYRKkQ6xTJDSWvJCNeDx8D4fwP3GoUxaADkMPVbsBT2WynXsm8opgvAeL4aLQ14PQ92d5rLSQKPuInpvhbn6LEA5o8dvBE_&Key-Pair-Id=APKAILW5I44IHKUN2DYA",
         "genres": ["Crime", "Drama"],
         "reviews": [{
@@ -248,11 +248,11 @@
     },
     {
         "id": 3,
-        "title": "The Godfather",
-        "plot": "The story begins as Don Vito Corleone, the head of a New York Mafia family, oversees his daughter's wedding with his wife Carmela. His beloved son Michael has just come home from the war, but does not intend to become part of his father's business. Through Michael's life the nature of the family business becomes clear. The business of the family is just like the head of the family, kind and benevolent to those who give respect, but given to ruthless violence whenever anything stands against the good of the family. Don Vito lives his life in the way of the old country, but times are changing and some don't want to follow the old ways and look out for community and family. An up and coming rival of the Corleone family wants to start selling drugs in New York, and needs the Don's influence to further his plan. The clash of the Don's fading old world values and the new ways will demand a terrible price, especially from Michael, all for the sake of the family.",
-        "simple_plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "title": "Verfrissende dranken",
+        "plot": "Nu maar €1,- per drankje.",
+        "simple_plot": "Even af van de alcohol, probeer de lekkere dranken bij de bar",
         "release_date": "24 March 1972",
-        "cover": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,704,1000_AL_.jpg",
+        "cover": "https://www.mo.be/sites/default/files/styles/3_2_standard_photo_format/public/field/image/53581_92626_dszq2y.jpg?itok=nSaOZAZk",
         "trailer": "https://video-http.media-imdb.com/MV5BMTQyOTIwMDIxNV5BMTFeQW1wNF5BbWU3MDE1MTA4NDc@.mp4?Expires=1545339714&Signature=VjmuXI7VecR1jBnc~ll08fdjJxjK7qZugyarWuqgb~fPKXdN2byrMdkU-V6FkBT4~iKvYe5QrMaqkQzA0tonto6p5QtH~tDy1LpJs~mV8OnMaaDyV7qkGkJp0w7OlvhB9Vi4PhzDXqw7-IipRpwNJH00BUYb50lxFdmdSoZCb~0_&Key-Pair-Id=APKAILW5I44IHKUN2DYA",
         "genres": ["Crime", "Drama"],
         "reviews": [{
@@ -405,11 +405,11 @@
     },
     {
         "id": 4,
-        "title": "Pulp Fiction",
-        "plot": "Jules Winnfield and Vincent Vega are two hitmen who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace. Wallace has also asked Vincent to take his wife Mia out a few days later when Wallace himself will be out of town. Butch Coolidge is an aging boxer who is paid by Wallace to lose his next fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
-        "simple_plot": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "title": "WATER",
+        "plot": "Gratis bij elk wc punt!",
+        "simple_plot": "Water? wil jij mij vergiftigen ofzo? Wel beter voor de kater, knipoog.",
         "release_date": "14 October 1994",
-        "cover": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,686,1000_AL_.jpg",
+        "cover": "https://media.self.com/photos/5b7aed6b37ff4e0e38e2ef4f/4:3/w_728,c_limit/woman-holding-water-bottles.jpg",
         "trailer": "https://video-http.media-imdb.com/MV5BMDFmMDcwMWQtNWM5YS00ZDllLWE1YzQtZmE4OTE1MGQ1ZWUwXkExMV5BbXA0XkFpbWRiLWV0cy10cmFuc2NvZGU@.mp4?Expires=1545339807&Signature=mKdcRcdRYTrjsTtQCfkWh8mxf3fFOvrvOMKro1L4HaKmZqqQ1lo2~DCB~RBnuWJccyJOHGSHkMeTOnFN~C~DIlHjPBSOzR~sEHzywDVnFy3y10O3iAKIU8q7kAgDWXMyuT18AXcLDkyJtv14v6QQUmRwnu3hRfFGTR45nqptqp0_&Key-Pair-Id=APKAILW5I44IHKUN2DYA",
         "genres": ["Crime", "Drama", "Thriller"],
         "reviews": [{
@@ -570,11 +570,11 @@
     },
     {
         "id": 5,
-        "title": "The Dark Knight",
-        "plot": "Batman raises the stakes in his war on crime. With the help of Lieutenant Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the city streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as The Joker.",
-        "simple_plot": "When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.",
+        "title": "Coctails",
+        "plot": "Alle coctail soorten voor maar €5,- per stuk.",
+        "simple_plot": "Toch even lekker dronken worden? Geniet van onze heerlijke coctails! Gemaakt door de beste barmedewerkers van het festival.",
         "release_date": "18 July 2008",
-        "cover": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "cover": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/22/13/gin-cocktails.jpg?w968h681",
         "trailer": "https://totaleclips-a.akamaihd.net/434/e43433_302.mp4?eclipId=e43433&bitrateId=472&vendorId=102&affiliateId=-1",
         "genres": ["Action", "Adventure"],
         "reviews": [{
@@ -763,11 +763,221 @@
     },
     {
         "id": 6,
-        "title": "Fight Club",
-        "plot": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground fight clubs forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
-        "simple_plot": "An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and they form an underground fight club that evolves into something much, much more...",
+        "title": "Pizza!",
+        "plot": "€6,- per pizza punt!",
+        "simple_plot": "Even wachten nog.... PIZZA! Heerlijke pizza in verschillende smaken. ",
         "release_date": "15 October 1999",
-        "cover": "https://m.media-amazon.com/images/M/MV5BMjJmYTNkNmItYjYyZC00MGUxLWJhNWMtZDY4Nzc1MDAwMzU5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,676,1000_AL_.jpg",
+        "cover": "https://recipes.timesofindia.com/photo/53110049.cms",
+        "trailer": "https://totaleclips-a.akamaihd.net/616/e61676_302.mp4?eclipId=e61676&bitrateId=472&vendorId=102&affiliateId=-1",
+        "genres": ["Drama"],
+        "reviews": [],
+        "directors": [{
+            "id": 8,
+            "name": "David Fincher",
+            "movie_id": 6
+        }],
+        "actors": [{
+            "id": 69,
+            "actor_name": "Edward Norton",
+            "movie_id": 6,
+            "character": "The Narrator",
+            "url_character": "http://www.imdb.com",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_SY44_CR1,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0001570"
+        }, {
+            "id": 70,
+            "actor_name": "Brad Pitt",
+            "movie_id": 6,
+            "character": "Tyler Durden",
+            "url_character": "http://www.imdb.com/character/ch0001854",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_SX32_CR0,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0000093"
+        }, {
+            "id": 71,
+            "actor_name": "Helena Bonham Carter",
+            "movie_id": 6,
+            "character": "Marla Singer",
+            "url_character": "http://www.imdb.com/character/ch0001857",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTUzMzUzMDg5MV5BMl5BanBnXkFtZTcwMDA5NDMwNA@@._V1_SX32_CR0,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0000307"
+        }, {
+            "id": 72,
+            "actor_name": "Meat Loaf",
+            "movie_id": 6,
+            "character": "Robert 'Bob' Paulsen",
+            "url_character": "http://www.imdb.com/character/ch0001858",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTIzNTQ4MjYyOV5BMl5BanBnXkFtZTcwNzgwNTEzMg@@._V1_SX32_CR0,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0001533"
+        }, {
+            "id": 73,
+            "actor_name": "Zach Grenier",
+            "movie_id": 6,
+            "character": "Richard Chesler",
+            "url_character": "http://www.imdb.com/character/ch0001861",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BNDc4MTcyNjE3M15BMl5BanBnXkFtZTgwODI1MDU2MTE@._V1_SX32_CR0,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0340260"
+        }, {
+            "id": 74,
+            "actor_name": "Richmond Arquette",
+            "movie_id": 6,
+            "character": "Intern",
+            "url_character": "http://www.imdb.com",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMjI0MTUwMDUxNF5BMl5BanBnXkFtZTgwNjAzNTM0MDE@._V1_SY44_CR3,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0037118"
+        }, {
+            "id": 75,
+            "actor_name": "David Andrews",
+            "movie_id": 6,
+            "character": "Thomas",
+            "url_character": "http://www.imdb.com",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTcwNTI4OTk3MF5BMl5BanBnXkFtZTcwOTQyMzI3OQ@@._V1_SY44_CR17,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0028625"
+        }, {
+            "id": 76,
+            "actor_name": "George Maguire",
+            "movie_id": 6,
+            "character": "Group Leader",
+            "url_character": "http://www.imdb.com/character/ch0214202",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTM1NzQ4MjY5OF5BMl5BanBnXkFtZTcwNjA3MjM2NA@@._V1_SX32_CR0,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0536574"
+        }, {
+            "id": 77,
+            "actor_name": "Eugenie Bondurant",
+            "movie_id": 6,
+            "character": "Weeping Woman",
+            "url_character": "http://www.imdb.com",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMjI1NDk4MjQ5M15BMl5BanBnXkFtZTgwMTI1MDM2MTE@._V1_SY44_CR1,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0094163"
+        }, {
+            "id": 78,
+            "actor_name": "Christina Cabot",
+            "movie_id": 6,
+            "character": "Group Leader",
+            "url_character": "http://www.imdb.com/character/ch0214202",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMjE3OTExODMwM15BMl5BanBnXkFtZTcwMDk4MzI0Mg@@._V1_SY44_CR17,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0127680"
+        }, {
+            "id": 79,
+            "actor_name": "Sydney 'Big Dawg' Colston",
+            "movie_id": 6,
+            "character": "Speaker",
+            "url_character": "http://www.imdb.com",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTU2NjMxMDcwMV5BMl5BanBnXkFtZTcwMTI4MjMzMQ@@._V1_SY44_CR1,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0173257"
+        }]
+    },
+    {
+        "id": 7,
+        "title": "Raketjes, splitjes en perenijsjes",
+        "plot": "€2,- per ijsje!",
+        "simple_plot": "Verkoeling nodig? heerlijke ijsjes bij de bar te verkrijgen voor als je echt lekker gaat!. ",
+        "release_date": "15 October 1999",
+        "cover": "https://www.ola.nl/content/dam/unilever/heart/netherlands/pack_shot/product_glorifier/ice_cream/out_of_home_ice_cream/heartbrand_ola_ijs_hollandse_klassiekers_8_stuks/8712100498435_ola_hollandse_klassiekers-1220459-png.png",
+        "trailer": "https://totaleclips-a.akamaihd.net/616/e61676_302.mp4?eclipId=e61676&bitrateId=472&vendorId=102&affiliateId=-1",
+        "genres": ["Drama"],
+        "reviews": [],
+        "directors": [{
+            "id": 8,
+            "name": "David Fincher",
+            "movie_id": 6
+        }],
+        "actors": [{
+            "id": 69,
+            "actor_name": "Edward Norton",
+            "movie_id": 6,
+            "character": "The Narrator",
+            "url_character": "http://www.imdb.com",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_SY44_CR1,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0001570"
+        }, {
+            "id": 70,
+            "actor_name": "Brad Pitt",
+            "movie_id": 6,
+            "character": "Tyler Durden",
+            "url_character": "http://www.imdb.com/character/ch0001854",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_SX32_CR0,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0000093"
+        }, {
+            "id": 71,
+            "actor_name": "Helena Bonham Carter",
+            "movie_id": 6,
+            "character": "Marla Singer",
+            "url_character": "http://www.imdb.com/character/ch0001857",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTUzMzUzMDg5MV5BMl5BanBnXkFtZTcwMDA5NDMwNA@@._V1_SX32_CR0,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0000307"
+        }, {
+            "id": 72,
+            "actor_name": "Meat Loaf",
+            "movie_id": 6,
+            "character": "Robert 'Bob' Paulsen",
+            "url_character": "http://www.imdb.com/character/ch0001858",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTIzNTQ4MjYyOV5BMl5BanBnXkFtZTcwNzgwNTEzMg@@._V1_SX32_CR0,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0001533"
+        }, {
+            "id": 73,
+            "actor_name": "Zach Grenier",
+            "movie_id": 6,
+            "character": "Richard Chesler",
+            "url_character": "http://www.imdb.com/character/ch0001861",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BNDc4MTcyNjE3M15BMl5BanBnXkFtZTgwODI1MDU2MTE@._V1_SX32_CR0,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0340260"
+        }, {
+            "id": 74,
+            "actor_name": "Richmond Arquette",
+            "movie_id": 6,
+            "character": "Intern",
+            "url_character": "http://www.imdb.com",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMjI0MTUwMDUxNF5BMl5BanBnXkFtZTgwNjAzNTM0MDE@._V1_SY44_CR3,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0037118"
+        }, {
+            "id": 75,
+            "actor_name": "David Andrews",
+            "movie_id": 6,
+            "character": "Thomas",
+            "url_character": "http://www.imdb.com",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTcwNTI4OTk3MF5BMl5BanBnXkFtZTcwOTQyMzI3OQ@@._V1_SY44_CR17,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0028625"
+        }, {
+            "id": 76,
+            "actor_name": "George Maguire",
+            "movie_id": 6,
+            "character": "Group Leader",
+            "url_character": "http://www.imdb.com/character/ch0214202",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTM1NzQ4MjY5OF5BMl5BanBnXkFtZTcwNjA3MjM2NA@@._V1_SX32_CR0,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0536574"
+        }, {
+            "id": 77,
+            "actor_name": "Eugenie Bondurant",
+            "movie_id": 6,
+            "character": "Weeping Woman",
+            "url_character": "http://www.imdb.com",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMjI1NDk4MjQ5M15BMl5BanBnXkFtZTgwMTI1MDM2MTE@._V1_SY44_CR1,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0094163"
+        }, {
+            "id": 78,
+            "actor_name": "Christina Cabot",
+            "movie_id": 6,
+            "character": "Group Leader",
+            "url_character": "http://www.imdb.com/character/ch0214202",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMjE3OTExODMwM15BMl5BanBnXkFtZTcwMDk4MzI0Mg@@._V1_SY44_CR17,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0127680"
+        }, {
+            "id": 79,
+            "actor_name": "Sydney 'Big Dawg' Colston",
+            "movie_id": 6,
+            "character": "Speaker",
+            "url_character": "http://www.imdb.com",
+            "url_photo": "http://ia.media-imdb.com/images/M/MV5BMTU2NjMxMDcwMV5BMl5BanBnXkFtZTcwMTI4MjMzMQ@@._V1_SY44_CR1,0,32,44_AL_.jpg",
+            "url_profile": "http://www.imdb.com/name/nm0173257"
+        }]
+    },
+    {
+        "id": 8,
+        "title": "Hamburger met patat",
+        "plot": "€10,- per set!",
+        "simple_plot": "Uitgekeken op Mc Donalds? Hier zijn de beste burgers van het land te verkrijgen! Grijp je kans!",
+        "release_date": "15 October 1999",
+        "cover": "https://img.grouponcdn.com/deal/9SGVmpuQ9yFNmpcbRduZ/C3-1500x900/v1/c700x420.jpg",
         "trailer": "https://totaleclips-a.akamaihd.net/616/e61676_302.mp4?eclipId=e61676&bitrateId=472&vendorId=102&affiliateId=-1",
         "genres": ["Drama"],
         "reviews": [],
