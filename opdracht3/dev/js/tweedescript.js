@@ -26,10 +26,25 @@
 var dubbelKolomsKnop = document.querySelector('button:nth-of-type(2)');
 var sectionKoloms = document.querySelector('main > section > section');
 
-
 dubbelKolomsKnop.addEventListener('click', function () {
     sectionKoloms.classList.toggle('gridview');
-})
+});
+
+
+function aantalHits() {
+  if (typeof(Storage) !== "niet bepaald") {
+    if (sessionStorage.hitsAantal) {
+      sessionStorage.hitsAantal = Number(sessionStorage.hitsAantal)+1;
+    } else {
+      sessionStorage.hitsAantal = 1;
+    }
+    document.getElementById("aantal").innerHTML = sessionStorage.hitsAantal + " kliks op de knop";
+  } 
+}
+
+
+
+
 
 $('input').on('change', function () {
     var v = $(this).val();

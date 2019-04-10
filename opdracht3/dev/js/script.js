@@ -136,7 +136,3 @@ function loadRestApiFetch() { //Rest Api call met Fetchs
 
 
 
-
-
-
-

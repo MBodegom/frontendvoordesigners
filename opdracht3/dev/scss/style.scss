@@ -95,7 +95,9 @@ main {
     grid-gap: 1em;
 }
 
-
+button {
+    cursor: pointer;
+}
 p {
     font-size: 16px;
     
@@ -209,4 +211,5 @@ main > section:nth-of-type(2) {
 .darkmode_p {
     color: #e3e3e3 !important;
 }
+
 
